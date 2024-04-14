@@ -2,7 +2,7 @@
 
 This repository contains the solution for the continuous assessment for the module ECM2433 at the University of Exeter.
 This was an individual exercise that evaluated skills and understanding of programming in C. The assessment consisted of three tasks, each focusing on different aspects of C programming.
-*Originally written using the Vim Editor in Linux
+Originally written using the Vim Editor in Linux
 
 ## Tasks
 ### Task 1: Read memory in bytes
