@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Compile the source files into object files
+gcc -ansi -c msString.c -o msString.o
+gcc -ansi -c coursework.c -o coursework.o
+
+# Link the object files into a single executable
+gcc msString.o coursework.o -o coursework
